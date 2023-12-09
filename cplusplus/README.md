@@ -8,9 +8,9 @@ Note: Space complexity is extra space
 
 ---
 
-| #      | Title       | Solution                         | Time   | Space  | Difficulty | Tag | Topic |
-| ------ | ----------- | -------------------------------- | ------ | ------ | ---------- | --- | ----- |
-| 000000 | Hello World | [C++](./0000000_hello_world.cpp) | _O(N)_ | _O(N)_ | Easy       |     |       |
+| #      | Title       | Solution                        | Time   | Space  | Difficulty | Tag | Topic |
+| ------ | ----------- | ------------------------------- | ------ | ------ | ---------- | --- | ----- |
+| 000000 | Hello World | [C++](./000000_hello_world.cpp) | _O(N)_ | _O(N)_ | Easy       |     |       |
 
 <br/>
    <div align="right">
