@@ -3,7 +3,7 @@
 // Tags:
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
-// Space Complexity:
+// Space Complexity: O(1)
 // Topic:
 
 /**

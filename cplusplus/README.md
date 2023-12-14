@@ -12,6 +12,7 @@ Note: Space complexity is extra space
 | ------ | ----------- | ------------------------------- | ------ | ------ | ---------- | --- | ----- |
 | 000000 | Hello World | [C++](./000000_hello_world.cpp) | _O(1)_ |        | Easy       |     |       |
 | 000001 | Sum         | [C++](./000001_sum.cpp)         | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000002 | Age         | [C++](./000002_age.cpp)         | _O(1)_ | _O(1)_ | Easy       |     |       |
 
 <br/>
    <div align="right">
