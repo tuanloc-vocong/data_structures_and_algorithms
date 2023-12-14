@@ -16,8 +16,11 @@
  * Một dòng duy nhất là số tuổi của người đó tính đến năm 2019.
  *  
  * Example 1:
- * Input: 1999
- * Output: 20
+ * Input:
+ * 1999
+ * 
+ * Output:
+ * 20
  **/
 
 #include <iostream>

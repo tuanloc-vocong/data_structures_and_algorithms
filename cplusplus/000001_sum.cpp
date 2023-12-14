@@ -18,8 +18,11 @@
  * In kết quả theo định dạng “a + b = c” với c là tổng số kẹo của cả 2 bạn Upan và Ipan.
  *  
  * Example 1:
- * Input: 4 5
- * Output: 4 + 5 = 9
+ * Input:
+ * 4 5
+ * 
+ * Output:
+ * 4 + 5 = 9
  **/
 
 #include <iostream>

@@ -16,8 +16,11 @@
  * Bạn hãy in “Hello, World!!!” ra màn hình (không có dấu “ “).
  *  
  * Example 1:
- * Input: Không có
- * Output: Hello, World!!!
+ * Input:
+ * Không có
+ * 
+ * Output:
+ * Hello, World!!!
  **/
 
 #include <iostream>
