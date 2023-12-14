@@ -10,7 +10,8 @@ Note: Space complexity is extra space
 
 | #      | Title       | Solution                        | Time   | Space  | Difficulty | Tag | Topic |
 | ------ | ----------- | ------------------------------- | ------ | ------ | ---------- | --- | ----- |
-| 000000 | Hello World | [C++](./000000_hello_world.cpp) | _O(N)_ | _O(N)_ | Easy       |     |       |
+| 000000 | Hello World | [C++](./000000_hello_world.cpp) | _O(1)_ |        | Easy       |     |       |
+| 000001 | Sum         | [C++](./000001_sum.cpp)         | _O(1)_ | _O(1)_ | Easy       |     |       |
 
 <br/>
    <div align="right">
