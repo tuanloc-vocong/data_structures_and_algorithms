@@ -16,6 +16,7 @@ Note: Space complexity is extra space
 | 000003 | Exam Results    | [C++](./000003_exam_results.cpp)    | _O(1)_ | _O(1)_ | Easy       |     |       |
 | 000004 | Calculate Point | [C++](./000004_calculate_point.cpp) | _O(1)_ | _O(1)_ | Easy       |     |       |
 | 000005 | Circle          | [C++](./000005_circle.cpp)          | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000006 | Triangle        | [C++](./000006_triangle.cpp)        | _O(1)_ | _O(1)_ | Easy       |     |       |
 
 <br/>
    <div align="right">
