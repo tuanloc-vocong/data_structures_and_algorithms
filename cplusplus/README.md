@@ -4,7 +4,7 @@ Author: [tuanloc-vocong](https://github.com/tuanloc-vocong)
 
 Note: Space complexity is extra space
 
-![](https://progress-bar.dev/100/?title=%20done%206%20/1000000&width=1000)
+![](https://progress-bar.dev/100/?title=%20done%208%20/1000000&width=1000)
 
 ---
 
@@ -18,6 +18,7 @@ Note: Space complexity is extra space
 | 000005 | Circle          | [C++](./000005_circle.cpp)          | _O(1)_ | _O(1)_ | Easy       |     |       |
 | 000006 | Triangle        | [C++](./000006_triangle.cpp)        | _O(1)_ | _O(1)_ | Easy       |     |       |
 | 000007 | Salary          | [C++](./000007_salary.cpp)          | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000008 | Biggest Number  | [C++](./biggest_number.cpp)         | _O(1)_ | _O(1)_ | Easy       |     |       |
 
 <br/>
    <div align="right">
