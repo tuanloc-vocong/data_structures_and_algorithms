@@ -18,7 +18,8 @@ Note: Space complexity is extra space
 | 000005 | Circle          | [C++](./000005_circle.cpp)          | _O(1)_ | _O(1)_ | Easy       |     |       |
 | 000006 | Triangle        | [C++](./000006_triangle.cpp)        | _O(1)_ | _O(1)_ | Easy       |     |       |
 | 000007 | Salary          | [C++](./000007_salary.cpp)          | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000008 | Biggest Number  | [C++](./biggest_number.cpp)         | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000008 | Biggest Number  | [C++](./000008_biggest_number.cpp)  | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000009 | Checking Sign   | [C++](./000009_checking_sign.cpp)   | _O(1)_ | _O(1)_ | Easy       |     |       |
 
 <br/>
    <div align="right">
