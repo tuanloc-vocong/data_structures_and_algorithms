@@ -21,6 +21,7 @@ Note: Space complexity is extra space
 | 000008 | Biggest Number  | [C++](./000008_biggest_number.cpp)  | _O(1)_ | _O(1)_ | Easy       |     |       |
 | 000009 | Checking Sign   | [C++](./000009_checking_sign.cpp)   | _O(1)_ | _O(1)_ | Easy       |     |       |
 | 000010 | Quarters        | [C++](./000010_quarters.cpp)        | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000011 | Leap Year       | [C++](./000011_leap_year.cpp)       | _O(1)_ | _O(1)_ | Easy       |     |       |
 
 <br/>
    <div align="right">
