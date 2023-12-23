@@ -26,6 +26,7 @@ Note: Space complexity is extra space
 | 000013 | Splitting Candy               | [C++](./000013_splitting_candy.cpp)               | _O(1)_ | _O(1)_ | Easy       |     |       |
 | 000014 | Electricity Bill              | [C++](./000014_electricity_bill.cpp)              | _O(1)_ | _O(1)_ | Easy       |     |       |
 | 000015 | The Maximum Number Of Candies | [C++](./000015_the_maximum_number_of_candies.cpp) | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000013 | Calculate Sum                 | [C++](./000016_calculate_sum.cpp)                 | _O(1)_ | _O(1)_ | Easy       |     |       |
 
 <br/>
    <div align="right">
