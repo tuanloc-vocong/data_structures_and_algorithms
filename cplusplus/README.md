@@ -8,22 +8,23 @@ Note: Space complexity is extra space
 
 ---
 
-| #      | Title           | Solution                            | Time   | Space  | Difficulty | Tag | Topic |
-| ------ | --------------- | ----------------------------------- | ------ | ------ | ---------- | --- | ----- |
-| 000000 | Hello World     | [C++](./000000_hello_world.cpp)     | _O(1)_ |        | Easy       |     |       |
-| 000001 | Sum             | [C++](./000001_sum.cpp)             | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000002 | Age             | [C++](./000002_age.cpp)             | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000003 | Exam Results    | [C++](./000003_exam_results.cpp)    | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000004 | Calculate Point | [C++](./000004_calculate_point.cpp) | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000005 | Circle          | [C++](./000005_circle.cpp)          | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000006 | Triangle        | [C++](./000006_triangle.cpp)        | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000007 | Salary          | [C++](./000007_salary.cpp)          | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000008 | Biggest Number  | [C++](./000008_biggest_number.cpp)  | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000009 | Checking Sign   | [C++](./000009_checking_sign.cpp)   | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000010 | Quarters        | [C++](./000010_quarters.cpp)        | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000011 | Leap Year       | [C++](./000011_leap_year.cpp)       | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000012 | Lucky Number    | [C++](./000012_lucky_number.cpp)    | _O(1)_ | _O(1)_ | Easy       |     |       |
-| 000013 | Splitting Candy | [C++](./000013_splitting_candy.cpp) | _O(1)_ | _O(1)_ | Easy       |     |       |
+| #      | Title            | Solution                             | Time   | Space  | Difficulty | Tag | Topic |
+| ------ | ---------------- | ------------------------------------ | ------ | ------ | ---------- | --- | ----- |
+| 000000 | Hello World      | [C++](./000000_hello_world.cpp)      | _O(1)_ |        | Easy       |     |       |
+| 000001 | Sum              | [C++](./000001_sum.cpp)              | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000002 | Age              | [C++](./000002_age.cpp)              | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000003 | Exam Results     | [C++](./000003_exam_results.cpp)     | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000004 | Calculate Point  | [C++](./000004_calculate_point.cpp)  | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000005 | Circle           | [C++](./000005_circle.cpp)           | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000006 | Triangle         | [C++](./000006_triangle.cpp)         | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000007 | Salary           | [C++](./000007_salary.cpp)           | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000008 | Biggest Number   | [C++](./000008_biggest_number.cpp)   | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000009 | Checking Sign    | [C++](./000009_checking_sign.cpp)    | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000010 | Quarters         | [C++](./000010_quarters.cpp)         | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000011 | Leap Year        | [C++](./000011_leap_year.cpp)        | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000012 | Lucky Number     | [C++](./000012_lucky_number.cpp)     | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000013 | Splitting Candy  | [C++](./000013_splitting_candy.cpp)  | _O(1)_ | _O(1)_ | Easy       |     |       |
+| 000014 | Electricity Bill | [C++](./000014_electricity_bill.cpp) | _O(1)_ | _O(1)_ | Easy       |     |       |
 
 <br/>
    <div align="right">
