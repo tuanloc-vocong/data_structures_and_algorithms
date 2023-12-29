@@ -41,6 +41,12 @@ Note: Space complexity is extra space
 | 000028 | Prime Closest To N            | [C++](./000028_prime_to_closest_to_n.cpp)         | _O(n√n)_           | _O(n√n)_ | Easy       |     |       |
 | 000029 | Palindrome Number             | [C++](./000029_palindrome_number.cpp)             | _O(n)_             | _O(1)_   | Easy       |     |       |
 | 000030 | Calculate Sum                 | [C++](./000030_calculate_sum.cpp)                 | _O(n)_             | _O(1)_   | Easy       |     |       |
+| 000035 | Pruning Flowers               | [C++](./000035_pruning_flowers.cpp)               | _O(n)_             | _O(1)_   | Easy       |     |       |
+| 000036 | School Trip                   | [C++](./000036_school_trip.cpp)                   | _O(n)_             | _O(1)_   | Easy       |     |       |
+| 000037 | Employee Id                   | [C++](./000037_employee_id.cpp)                   | _O(n^2)_           | _O(1)_   | Easy       |     |       |
+| 000038 | Fruits                        | [C++](./000038_fruits.cpp)                        | _O(n)_             | _O(1)_   | Easy       |     |       |
+| 000039 | Manage Lala                   | [C++](./000039_manage_lala.cpp)                   | _O(n)_             | _O(1)_   | Easy       |     |       |
+| 000040 | Sum Of Each Line              | [C++](./000040_sum_of_each_line.cpp)              | _O(m\*n)_          | _O(m)_   | Easy       |     |       |
 
 <br/>
    <div align="right">
