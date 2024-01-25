@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Array
 
 /**
  * Hôm nay Upan, Ipan và các bạn được một chuyến đi tham quan sở thú do nhà trường tổ chức. Nhà trường muốn tổ chức

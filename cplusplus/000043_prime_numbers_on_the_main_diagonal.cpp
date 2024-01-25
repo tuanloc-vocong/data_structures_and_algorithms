@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(N∗N+N∗√max(aij))∈O(N∗N)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Matrix
 
 /**
  * Viết chương trình đếm xem trên đường chéo chính của ma trận vuông có bao nhiêu số nguyên tố.

@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n^2)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Loop Statements
 
 /**
  * Viết chương trình vẽ hàng rào nhà Harry có dạng hình vuông có độ dài n. Hàng rào được kí hiệu bởi kí tự '*',

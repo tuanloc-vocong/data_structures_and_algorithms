@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: String
 
 /**
  * Cho một câu gồm nhiều từ cách nhau bởi khoảng trắng, viết chương trình đảo ngược thứ tự các từ trong câu lại.

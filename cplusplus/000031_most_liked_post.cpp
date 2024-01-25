@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Array
 
 /**
  * Viết chương trình đọc vào số nguyên dương n với n là số lượng bài post trên Facebook, và mảng a có

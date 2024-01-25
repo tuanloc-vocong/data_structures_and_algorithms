@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Introduction
 
 /**
  * Viết chương trình cho phép người dùng nhập vào 2 số nguyên lần lượt là số kẹo của Upan và Ipan. Bạn hãy tính tổng số

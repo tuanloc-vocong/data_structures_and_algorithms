@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(log(min(a,b)))
 // Space Complexity: O(1)
-// Topic:
+// Topic: User Defined Function
 
 /**
  * Cho phân số a/b với a và b là hai số nguyên dương. Hãy rút gọn phân số đã cho.

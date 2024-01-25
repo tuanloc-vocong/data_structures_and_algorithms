@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Recursion
 
 /**
  * Viết chương trình tính giai thừa của một số n (kí hiệu là n!) bằng phương pháp đệ quy, biết:

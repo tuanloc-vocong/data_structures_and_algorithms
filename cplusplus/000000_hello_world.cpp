@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity:
-// Topic:
+// Topic: Introduction
 
 /**
  * Bài tập in ra dòng chữ “Hello, World!!!” là một bài tập cơ bản cho người mới bắt đầu học ngôn ngữ lập trình.

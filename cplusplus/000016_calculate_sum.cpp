@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Loop Statements
 
 /**
  * Viết chương trình đọc vào số nguyên dương n và tính tổng các số nguyên từ 1 đến n, tức là (1+2+...+n).

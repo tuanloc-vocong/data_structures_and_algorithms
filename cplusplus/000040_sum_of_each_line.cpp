@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(m*n)
 // Space Complexity: O(m)
-// Topic:
+// Topic: Matrix
 
 /**
  * Viết chương trình tính tổng của từng dòng trong ma trận số nguyên.

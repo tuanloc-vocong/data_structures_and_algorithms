@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: User Defined Function
 
 /**
  * Viết chương trình tính tổng S theo công thức.

@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: String
 
 /**
  * Một chuỗi được xem là đã được chuẩn hóa khi các từ trong chuỗi cách nhau đúng một khoảng trắng và không có

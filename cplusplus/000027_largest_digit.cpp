@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(n)
-// Topic:
+// Topic: User Defined Function
 
 /**
  * Cho một số nguyên dương N, hãy cho biết chữ số lớn nhất của số N.

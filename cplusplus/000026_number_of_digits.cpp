@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(|n|)
 // Space Complexity: O(1)
-// Topic:
+// Topic: User Defined Function
 
 /**
  * Cho một số nguyên dương N, hãy cho biết số N có bao nhiêu chữ số.

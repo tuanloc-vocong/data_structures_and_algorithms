@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Array
 
 /**
  * Liệt kê các số chia hết cho 2 trong mảng một chiều các số nguyên.

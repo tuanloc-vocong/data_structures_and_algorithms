@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(log(n))
 // Space Complexity: O(1)
-// Topic:
+// Topic: Recursion
 
 /**
  * Viết chương trình tìm ước số lẻ lớn nhất của của một số nguyên dương n bằng phương pháp đệ quy.

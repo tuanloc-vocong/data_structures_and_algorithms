@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Array
 
 /**
  * Hary rất thích ăn trái cây đặc biệt là táo và cam, anh ấy thích táo nhất.

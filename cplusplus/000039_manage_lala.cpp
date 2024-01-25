@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Array
 
 /**
  * Lala rất thích học Tin học, nhưng cô ấy vô cùng ghét học Tiếng Anh. Biết được điều đó ba mẹ Lala vô cùng lo lắng

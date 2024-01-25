@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: User Defined Function
 
 /**
  * Cho số nguyên dương n, kiểm tra số n có phải là số đối xứng hay không. Biết rằng số đối xứng là số mà đọc từ trái sang phải

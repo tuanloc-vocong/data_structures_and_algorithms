@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n∗√n)
 // Space Complexity: O(n)
-// Topic:
+// Topic: User Defined Function
 
 /**
  * Hãy tính tổng các số nguyên tố nhỏ hơn N.

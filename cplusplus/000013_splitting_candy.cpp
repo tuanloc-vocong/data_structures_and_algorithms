@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Conditional Statements
 
 /**
  * Luka hôm nay đi chợ, cô ấy quyết định chọn một gói kẹo gồm x viên kẹo để làm quà cho hai con của cô ấy.

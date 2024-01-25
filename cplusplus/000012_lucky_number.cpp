@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Conditional Statements
 
 /**
  * Upan và Ipan là đôi bạn thân. Hai bạn muốn tìm cho mình chung một con số may mắn.

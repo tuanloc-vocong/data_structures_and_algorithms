@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n^2)
 // Space Complexity: O(n)
-// Topic:
+// Topic: String
 
 /**
  * Trước khi giải Ngoại hạng anh (Premier league) diễn ra, thì ban tổ chức nhận được danh sách N cầu thủ được đăng ký

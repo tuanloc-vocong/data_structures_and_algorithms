@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(m*n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Matrix
 
 /**
  * Một album ảnh trên mạng xã hội gồm các ảnh được hiển thị dưới dạng một ma trận có kích thước M×N. Biết số 

@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Introduction
 
 /**
  * Bạn là một kế toán của một công ty, trách nhiệm của bạn là tính lương cho các nhân viên trong công ty. Lương của

@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Loop Statements
 
 /**
  * Mẹ của Lu và Xi vừa mua n túi kẹo, mỗi túi có một số lượng kẹo nhất định.

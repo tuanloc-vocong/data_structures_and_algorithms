@@ -3,8 +3,8 @@
 // Tags:
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
-// Space Complexity:
-// Topic:
+// Space Complexity: O(1)
+// Topic: Recursion
 
 /**
  * Cho số nguyên N. Hãy viết chương trình tìm chữ số đầu tiên của N bằng phương pháp đệ quy.

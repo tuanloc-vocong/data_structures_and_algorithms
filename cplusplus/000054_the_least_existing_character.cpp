@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n^2)
 // Space Complexity: O(1)
-// Topic:
+// Topic: String
 
 /**
  * Cho N chuỗi, hãy viết chương trình tìm ký tự xuất hiện ít nhất trong các chuỗi, chuỗi ký tự chỉ bao gồm các kí tự

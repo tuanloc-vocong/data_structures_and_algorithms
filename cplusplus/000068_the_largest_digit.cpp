@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity:
-// Topic:
+// Topic: Recursion
 
 /**
  * Viết chương trình tìm chữ số lớn nhất của số nguyên N bằng phương pháp đệ quy.
@@ -38,6 +38,6 @@ int main(){
     cin >> n;
     if(n < 0)
         n *= -1;
-    cout<<maxDigit(n);
+    cout << maxDigit(n);
     return 0;
 }

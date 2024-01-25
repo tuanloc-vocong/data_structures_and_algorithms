@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: String
 
 /**
  * Cho một chuỗi kí tự, hãy kiểm tra xem có xuất hiện một trong các ký tự ‘B’, ‘I, ‘G’ hoặc ‘O’ trong chuỗi hay không?
@@ -32,14 +32,14 @@ using namespace std;
 int main(){
     int n;
     char ls[8] = {'B', 'b', 'I', 'i', 'G', 'g', 'O', 'o'};
-    char mystr[1001];
+    char str[1001];
 
-    cin.getline(mystr, 1001);
+    cin.getline(str, 1001);
     bool flag = false;
 
-    for(int i = 0; i < strlen(mystr); i++){
+    for(int i = 0; i < strlen(str); i++){
         for(int j = 0; j < 8; j++){
-            if(mystr[i] == ls[j]){
+            if(str[i] == ls[j]){
                 flag = true;
                 break;
             }

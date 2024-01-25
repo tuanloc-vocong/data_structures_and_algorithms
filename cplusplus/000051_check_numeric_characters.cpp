@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: String
 
 /**
  * Viết chương trình đếm xem chuỗi đã cho có bao nhiêu ký tự là số.

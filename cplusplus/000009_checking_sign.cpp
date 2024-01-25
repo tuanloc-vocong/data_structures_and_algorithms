@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Conditional Statements
 
 /**
  * Viết chương trình nhập vào hai số thực a và b khác 0. Kiểm tra xem chúng có cùng dấu hay không. Hai số thực

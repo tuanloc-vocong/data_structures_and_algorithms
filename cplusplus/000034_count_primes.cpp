@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Array
 
 /**
  * Cho một mảng các số nguyên, hãy đếm xem mảng có bao nhiêu số nguyên tố.

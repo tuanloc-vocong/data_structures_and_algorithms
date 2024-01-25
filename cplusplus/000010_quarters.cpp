@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Conditional Statements
 
 /**
  * Hôm nay cô giáo dạy Laura về các quý trong năm, nhưng cô vẫn không thực sự hiểu rõ về nó. Cô phải hoàn thành

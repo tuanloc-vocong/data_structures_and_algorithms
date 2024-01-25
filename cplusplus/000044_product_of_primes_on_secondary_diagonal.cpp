@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n∗n+n∗√max(aij))∈O(n∗n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Matrix
 
 /**
  * Viết chương trình tính tích các số nguyên tố trên đường chéo phụ của ma trận vuông các số nguyên.

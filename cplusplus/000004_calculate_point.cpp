@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Introduction
 
 /**
  * Hôm nay là ngày nghỉ, Ben cùng chơi một trò chơi với các bạn của mình. Luật trò chơi rất đơn giản, mỗi người sẽ nhận được một

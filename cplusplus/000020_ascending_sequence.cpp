@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Loop Statements
 
 /**
  * Lulu có một vườn hoa có n chậu. Mỗi chậu hoa có một độ cao nhất định.

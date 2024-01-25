@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(m∗n+(m+n)∗√max(aij)​)∈O(m∗n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Matrix
 
 /**
  * Đếm xem trên biên của ma trận có bao nhiêu phần tử là số nguyên tố.

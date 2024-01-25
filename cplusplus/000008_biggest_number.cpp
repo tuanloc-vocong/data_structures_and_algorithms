@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Conditional Statements
 
 /**
  * Bài toán tìm giá trị lớn nhất của hai số nguyên là một bài toán rất cơ bản trong tin học. Bạn được cho đầu

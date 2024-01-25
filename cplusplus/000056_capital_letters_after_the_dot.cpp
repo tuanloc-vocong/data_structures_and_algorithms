@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: String
 
 /**
  * Cho một chuỗi ký tự, hãy viết chương trình in hoa các ký tự đứng sau lần cặp kí tự dấu chấm và khoảng trắng

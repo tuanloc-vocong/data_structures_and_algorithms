@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(sqrt(n))
 // Space Complexity: O(1)
-// Topic:
+// Topic: Loop Statements
 
 /**
  * Số nguyên tố là các số nguyên dương chỉ có hai ước số dương phân biệt là 1 và chính nó. Các số có nhiều hơn

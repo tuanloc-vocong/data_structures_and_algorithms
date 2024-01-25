@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n^2)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Array
 
 /**
  * Công ty XYZ nay tuyển thêm 1 nhân viên mới. Do đợt vừa rồi có rất nhiều nhân viên nghỉ việc nên có một số mã số

@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Introduction
 
 /**
  * Viết chương trình nhập vào điểm 3 môn Toán, Khoa học tự nhiên, Anh Văn. Tính tổng điểm thi 3 môn của thí sinh đó.

@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Loop Statements
 
 /**
  * Hôm nay cô giáo phát bài kiểm tra trong lớp. Cô đọc điểm lần lượt từng học sinh.

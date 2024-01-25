@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n^3)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Matrix
 
 /**
  * Đếm số lượng các phần tử giá trị "Hoàng Hậu" trên ma trận vuông. Một giá trị được gọi là Hoàng Hậu khi
@@ -103,7 +103,6 @@ bool isQueen(int x, int y, int n, int arr[][1000]){
 
     i = x;
     j = y;
-
     while(i < n && j < n){
         if(arr[i][j] > max){
             max = arr[i][j];
@@ -114,7 +113,6 @@ bool isQueen(int x, int y, int n, int arr[][1000]){
 
     i = x;
     j = y;
-
     while(i >= 0 && j < n){
         if(arr[i][j] > max){
             max = arr[i][j];

@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(n√n)
 // Space Complexity: O(n√n)
-// Topic:
+// Topic: User Defined Function
 
 /**
  * Cho một số nguyên dương n, hãy tìm số nguyên tố m gần nhất với n.

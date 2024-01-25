@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(m*n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Matrix
 
 /**
  * Viết chương trình liệt kê các cột toàn âm của ma trận các số nguyên.

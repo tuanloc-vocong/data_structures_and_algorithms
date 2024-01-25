@@ -4,14 +4,14 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(m*n)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Matrix
 
 /**
  * Cho hai giá trị đầu tiên của ma trận và một số p, bạn hãy tạo ra một ma trận từ 2 số ban đầu, biết giá trị sau bằng
  * tổng 2 giá trị trước cộng lại rồi lấy phần dư khi chia cho p, tính từ trái sang phải và từ trên xuống dưới.
  * 
  * Ví dụ: Ma trận 3×3, a=b=1, p=100:
- * 0	1	2
+ *      0	1	2
  * 0	1	1	2
  * 1	3	5	8
  * 2	13	21	34

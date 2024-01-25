@@ -4,7 +4,7 @@
 // Author: tuanloc-vocong
 // Time Complexity: O(1)
 // Space Complexity: O(1)
-// Topic:
+// Topic: Introduction
 
 /**
  * Nhập vào năm sinh của một người. Tính tuổi của người đó tính đến năm 2019.

@@ -3,8 +3,8 @@
 // Tags:
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
-// Space Complexity:
-// Topic:
+// Space Complexity: O(1)
+// Topic: Recursion
 
 /**
  * Nhập vào một số nguyên N.
@@ -25,6 +25,7 @@
  **/
 
 #include <iostream>
+
 using namespace std;
 
 int cntDigits(int n){
