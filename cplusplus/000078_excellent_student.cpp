@@ -2,9 +2,9 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic:
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+// Topic: Data Abstraction
 
 /**
  * Cho thông tin của N học sinh gồm họ và tên, điểm môn toán và văn. Biết công thức tính điểm trung bình
@@ -35,7 +35,9 @@
 
 #include <iostream>
 #include <math.h>
+
 using namespace std;
+
 struct Student{
     char name[101];
     double math, lit;
@@ -48,9 +50,9 @@ double average(Student s) {
 int main(){
     int n;
     Student S[100];
-
     cin >> n;
     cin.ignore();
+
     for (int i = 0; i < n; i++) {
         cin.getline(S[i].name, 101);
         cin >> S[i].math >> S[i].lit;
@@ -61,6 +63,7 @@ int main(){
     for (int i = 0; i < n; i++) {
         if (average(S[i]) >= 9.0) cnt += 1;
     }
+
     cout << cnt;
 	return 0;
 }

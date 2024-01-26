@@ -3,8 +3,8 @@
 // Tags:
 // Author: tuanloc-vocong
 // Time Complexity: O(nlog(n))
-// Space Complexity:
-// Topic:
+// Space Complexity: O(1)
+// Topic: Sorting
 
 /**
  * Sắp xếp mảng tăng dần các số nguyên, nhưng các số nguyên tố vẫn giữ nguyên vị trí.
@@ -28,17 +28,20 @@
 
 #include <iostream>
 #include <cmath>
+
 using namespace std;
 
 bool isPrime(int n) {
     if (n < 2) {
         return false;
     }
+
     for (int i = 2; i < (int)sqrt(n) + 1; i++) {
         if (n % i == 0) {
             return false;
         }
     }
+
     return true;
 }
 
@@ -87,6 +90,7 @@ int main(){
     int n;
     int a[1000];
     cin >> n;
+
     for(int i = 0 ; i < n ; i++){
       cin >> a[i];
     }

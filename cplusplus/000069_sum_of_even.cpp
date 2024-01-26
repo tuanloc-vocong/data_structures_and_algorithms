@@ -3,8 +3,8 @@
 // Tags:
 // Author: tuanloc-vocong
 // Time Complexity: O(n)
-// Space Complexity:
-// Topic:
+// Space Complexity: O(1)
+// Topic: Recursion
 
 /**
  * Viết chương trình tính tổng các phần tử là số chẵn trong mảng 1 chiều số nguyên bằng phương pháp đệ quy.
@@ -26,8 +26,11 @@
  **/
 
 #include <iostream>
+
 using namespace std;
+
 int a[100005];
+
 int sumEven(int a[], int n){
    if(n == 0)
       return 0;
@@ -35,6 +38,7 @@ int sumEven(int a[], int n){
       return a[n - 1] + sumEven(a, n - 1);
    return sumEven(a, n - 1);
 }
+
 int main() {
    int n;
    cin >> n;

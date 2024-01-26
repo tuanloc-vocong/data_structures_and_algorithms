@@ -2,8 +2,8 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 // Topic: Recursion
 
 /**
@@ -25,7 +25,9 @@
 
 #include <iostream>
 #include <cmath>
+
 using namespace std;
+
 int maxDigit(int n){
     if(n < 10)
         return n;

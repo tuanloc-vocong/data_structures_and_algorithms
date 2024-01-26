@@ -2,9 +2,9 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic:
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+// Topic: Data Abstraction
 
 /**
  * Lần lượt cho hoành độ và tung độ 3 đỉnh của 1 mảng các tam giác. Hãy tính tổng diện tích các tam giác
@@ -37,6 +37,7 @@
 #include <cmath>
 #include <iomanip>
 #include <iostream>
+
 using namespace std;
 
 struct Point {
@@ -51,7 +52,8 @@ int main() {
     int n;
     double res = 0;
     cin >> n;
-    for (int i = 0; i < n; ++i) {
+
+    for (int i = 0; i < n; i++) {
         int x, y;
         double p;
         cin >> x >> y;
@@ -64,13 +66,16 @@ int main() {
         cin >> x >> y;
         C.x = x;
         C.y = y;
+
         double AB = dist(A, B);
         double BC = dist(B, C);
         double AC = dist(A, C);
+
         p = (AB + BC + AC) / 2;
         double area = sqrt(p * (p - AB) * (p - AC) * (p - BC));
         res += area;
     }
+
     cout << fixed << setprecision(2) << res;
     return 0;
 }

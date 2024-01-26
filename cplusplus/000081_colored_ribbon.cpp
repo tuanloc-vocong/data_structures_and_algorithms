@@ -2,9 +2,9 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic:
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+// Topic: Data Abstraction
 
 /**
  * Upan và Ipan chơi với những băng giấy màu. Mỗi băng giấy có một màu có giá trị từ 1 tới 1000 và có diện tích là 1×m.
@@ -37,16 +37,12 @@
  **/
 
 #include <iostream>
+
 using namespace std;
 
 struct Color {
     int sumLength = 0;
     int cnt = 0;
-
-    void update(int newLength) {
-        cnt ++;
-        sumLength += newLength;
-    }
 };
 
 void update(Color &c, int newLength) {

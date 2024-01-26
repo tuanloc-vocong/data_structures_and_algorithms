@@ -2,9 +2,9 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic:
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+// Topic: Recursion
 
 /**
  * Viết chương trình tìm ước số chung lớn nhất của 2 số nguyên dương a, b bằng phương pháp đệ quy.
@@ -25,15 +25,18 @@
  **/
 
 #include <iostream>
+
 using namespace std;
 
 int gcd(int a, int b){
    if (b == 0)
       return a;
+
    return gcd(b, a % b);
 }
+
 int main() {
-   int a,b;
+   int a, b;
    cin >> a >> b;
    cout << gcd(a, b);
    return 0;

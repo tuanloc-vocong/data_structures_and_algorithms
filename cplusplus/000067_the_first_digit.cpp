@@ -31,6 +31,7 @@
  **/
 
 #include <iostream>
+
 using namespace std;
 
 int firstDigit(int n){
@@ -38,6 +39,7 @@ int firstDigit(int n){
       return n;
    return firstDigit(n / 10);
 }
+
 int main() {
    int n;
    cin >> n;

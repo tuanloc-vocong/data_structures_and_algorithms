@@ -3,8 +3,8 @@
 // Tags:
 // Author: tuanloc-vocong
 // Time Complexity: O(n^2)
-// Space Complexity:
-// Topic:
+// Space Complexity: O(1)
+// Topic: Sorting
 
 /**
  * Cho mảng một chiều các số nguyên. Hãy sắp xếp sao cho các vị trí có giá trị chẵn tạo thành dãy tăng dần,
@@ -27,10 +27,13 @@
  **/
 
 #include <iostream>    
+
 using namespace std;  
+
 int a[1003];  
 int odd[1003], even[1003];  
 int n, nOdd, nEven;  
+
 void insertion_sort(int a[], int n){  
    for(int i = 1 ; i < n ; i++){  
       int cur = a[i];  
@@ -41,36 +44,34 @@ void insertion_sort(int a[], int n){
       }  
       a[j+1] = cur;  
    }  
-}  
-void print(int a[] , int n){  
-   for(int i = 0 ; i < n; i++){  
-      cout << a[i] << " ";  
-   }  
-}  
+}
   
 int main(){  
    nOdd = nEven = 0;  
    cin >> n;  
-   for(int i = 0 ; i < n ; i++){  
+
+   for(int i = 0; i < n; i++){  
       cin >> a[i];  
       if(a[i] % 2 == 0){  
-         even[nEven++]=a[i];  
+         even[nEven++] = a[i];  
+      } else {
+         odd[nOdd++] = a[i];
       }  
-      else  
-         odd[nOdd++] = a[i];  
    }  
-   insertion_sort(odd,nOdd);  
-   insertion_sort(even,nEven);  
-   int pa,pb; // j is iterator of even array , k is iterator of odd aray  
+
+   insertion_sort(odd, nOdd);  
+   insertion_sort(even, nEven);  
+
+   int pa, pb;
    pa = 0;  
-   pb = nOdd -1;  
+   pb = nOdd - 1;  
   
-   for(int i = 0 ; i < n ; i++){  
+   for(int i = 0; i < n; i++){  
       if(a[i] % 2 == 0){  
-         cout<<even[pa++]<<" ";  
+         cout << even[pa++] << " ";  
+      } else {
+         cout << odd[pb--] << " ";  
       }  
-      else  
-         cout<<odd[pb--]<<" ";  
    }    
   
    return 0;  

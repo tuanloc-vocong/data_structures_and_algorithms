@@ -78,6 +78,29 @@ Note: Space complexity is extra space
 | 000065 | Biggest Odd Divisor                     | [C++](./000065_biggest_odd_divisor.cpp)                     | _O(log(n))_                      | _O(1)_   | Easy       |     | Recursion              |
 | 000066 | The Number Of Digits                    | [C++](./000066_the_number_of_digits.cpp)                    | _O(n)_                           | _O(1)_   | Easy       |     | Recursion              |
 | 000067 | The First Digit                         | [C++](./000067_the_first_digit.cpp)                         | _O(n)_                           | _O(1)_   | Easy       |     | Recursion              |
+| 000068 | The Largest Digit                       | [C++](./000068_the_largest_digit.cpp)                       | _O(n)_                           | _O(1)_   | Easy       |     | Recursion              |
+| 000069 | Sum Of Even                             | [C++](./000069_sum_of_even.cpp)                             | _O(n)_                           | _O(1)_   | Easy       |     | Recursion              |
+| 000070 | The First Prime Number                  | [C++](./000070_the_first_prime_number.cpp)                  | _O(n)_                           | _O(1)_   | Easy       |     | Recursion              |
+| 000071 | Fibonacci Number                        | [C++](./000071_fibonacci_number.cpp)                        | _O(2^n)_                         | _O(1)_   | Easy       |     | Recursion              |
+| 000072 | Greatest Common Divisor                 | [C++](./000072_greatest_common_divisor.cpp)                 | _O(n)_                           | _O(1)_   | Easy       |     | Recursion              |
+| 000073 | Binary Number                           | [C++](./000073_binary_number.cpp)                           | _O(log2(n))_                     | _O(1)_   | Easy       |     | Recursion              |
+| 000074 | Hexadecimal Number                      | [C++](./000074_hexadecimal_number.cpp)                      | _O(log2(n))_                     | _O(1)_   | Easy       |     | Recursion              |
+| 000075 | Symmetrical String                      | [C++](./000075_symmetrical_string.cpp)                      | _O(n)_                           | _O(1)_   | Easy       |     | Recursion              |
+| 000076 | Sum Of Fractions                        | [C++](./000076_sum_of_fractions.cpp)                        | _O(n)_                           | _O(1)_   | Easy       |     | Data Abstraction       |
+| 000077 | The Furthest Points                     | [C++](./000077_the_furthest_points.cpp)                     | _O(n)_                           | _O(1)_   | Easy       |     | Data Abstraction       |
+| 000078 | Excellent Student                       | [C++](./000078_excellent_student.cpp)                       | _O(n)_                           | _O(1)_   | Easy       |     | Data Abstraction       |
+| 000079 | Area Of The Triangles                   | [C++](./000079_area_of_the_triangles.cpp)                   | _O(n)_                           | _O(1)_   | Easy       |     | Data Abstraction       |
+| 000080 | Searching Students                      | [C++](./000080_searching_students.cpp)                      | _O(n\*q)_                        | _O(1)_   | Easy       |     | Data Abstraction       |
+| 000081 | Colored Ribbon                          | [C++](./000081_colored_ribbon.cpp)                          | _O(n)_                           | _O(1)_   | Easy       |     | Data Abstraction       |
+| 000082 | Oldest Employee                         | [C++](./000082_oldest_employee.cpp)                         | _O(n)_                           | _O(1)_   | Easy       |     | Data Abstraction       |
+| 000083 | The Largest Fraction                    | [C++](./000083_the_largest_fraction.cpp)                    | _O(n)_                           | _O(1)_   | Easy       |     | Data Abstraction       |
+| 000084 | Buying Apples                           | [C++](./000084_buying_apples.cpp)                           | _O(n)_                           | _O(1)_   | Easy       |     | Data Abstraction       |
+| 000085 | Sort In Ascending Order                 | [C++](./000085_sort_in_ascending_order.cpp)                 | _O(n^2)_                         | _O(1)_   | Easy       |     | Sorting                |
+| 000086 | Sort In Descending Order                | [C++](./000086_sort_in_descending_order.cpp)                | _O(nlog(n))_                     | _O(1)_   | Easy       |     | Sorting                |
+| 000087 | Prime Sort                              | [C++](./000087_prime_sort.cpp)                              | _O(nlog(n))_                     | _O(1)_   | Easy       |     | Sorting                |
+| 000088 | Median                                  | [C++](./000088_median.cpp)                                  | _O(n^2)_                         | _O(1)_   | Easy       |     | Sorting                |
+| 000089 | Odd Even Sort                           | [C++](./000089_odd_even_sort.cpp)                           | _O(n^2)_                         | _O(1)_   | Easy       |     | Sorting                |
+| 000090 | Student Sort                            | [C++](./000090_student_sort.cpp)                            | _O(nlog(n))_                     | _O(1)_   | Easy       |     | Sorting                |
 
 <br/>
    <div align="right">

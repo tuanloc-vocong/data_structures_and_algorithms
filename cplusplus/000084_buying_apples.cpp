@@ -2,9 +2,9 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic:
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+// Topic: Data Abstraction
 
 /**
  * Imak đi chợ mua táo. Tiêu chuẩn một trái táo theo Imak là chúng phải to và nặng. Nhưng trong một sạp táo có rất nhiều
@@ -35,6 +35,7 @@
  **/
 
 #include <iostream>
+
 using namespace std;
 
 struct Apple {
@@ -44,19 +45,20 @@ struct Apple {
 
 int main() {
     int n;
-    Apple lst[1000];
+    Apple list[1000];
 
     cin >> n;
     for (int i = 0; i < n; i++) {
-        cin >> lst[i].w >> lst[i].p;
+        cin >> list[i].w >> list[i].p;
     }
 
     int indexAns = 0;
     for (int i = 1; i < n; i++) {
-        if (lst[i].w > lst[indexAns].w || (lst[i].w == lst[indexAns].w && lst[i].p > lst[indexAns].p)) {
+        if (list[i].w > list[indexAns].w || (list[i].w == list[indexAns].w && list[i].p > list[indexAns].p)) {
             indexAns = i;
         }
     }
 
     cout << indexAns;
+    return 0;
 }

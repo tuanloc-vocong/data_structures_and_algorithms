@@ -2,9 +2,9 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic:
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+// Topic: Data Abstraction
 
 /**
  * Cho mảng N phân số, hãy tìm phân số lớn nhất, nếu phân số chưa tối giản thì tối giản phân số đó.
@@ -30,6 +30,7 @@
  **/
 
 #include <iostream>
+
 using namespace std;
 
 int gcd(int a, int b) {
@@ -56,20 +57,21 @@ PhanSo reduce(PhanSo P) {
 
 int main() {
     int n;
-    PhanSo lst[1000];
+    PhanSo list[1000];
 
     cin >> n;
     for (int i = 0; i < n; i++) {
-        cin >> lst[i].nu >> lst[i].de;
+        cin >> list[i].nu >> list[i].de;
     }
 
-    PhanSo ans = lst[0];
+    PhanSo ans = list[0];
     for (int i = 1; i < n; i++) {
-        if (ans.nu * lst[i].de - lst[i].nu * ans.de < 0) {
-            ans = lst[i];
+        if (ans.nu * list[i].de - list[i].nu * ans.de < 0) {
+            ans = list[i];
         }
     }
 
     ans = reduce(ans);
     cout << ans.nu << " " << ans.de;
+    return 0;
 }

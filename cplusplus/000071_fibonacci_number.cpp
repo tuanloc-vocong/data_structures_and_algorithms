@@ -3,8 +3,8 @@
 // Tags:
 // Author: tuanloc-vocong
 // Time Complexity: O(2^n)
-// Space Complexity:
-// Topic:
+// Space Complexity: O(1)
+// Topic: Recursion
 
 /**
  * Tìm phần tử thứ n trong dãy Fibonacci bằng phương pháp đệ quy. Biết rằng dãy Fibonnacci được xây dựng theo công thức:
@@ -25,17 +25,20 @@
  **/
 
 #include <iostream>
+
 using namespace std;
 
-int F(int n){
+int fibonacci(int n){
    if(n == 0 || n == 1){
       return 1;
    }
-   return F(n - 1) + F(n - 2);
+
+   return fibonacci(n - 1) + fibonacci(n - 2);
 }
+
 int main() {
    int n;
    cin >> n;
-   cout<<F(n);
+   cout << fibonacci(n);
    return 0;
 }

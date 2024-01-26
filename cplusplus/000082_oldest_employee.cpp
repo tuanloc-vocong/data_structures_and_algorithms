@@ -2,9 +2,9 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic:
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+// Topic: Data Abstraction
 
 /**
  * Cho danh sách nhân viên, tìm nhân viên lớn tuổi nhất công ty. Một nhân viên có các thông tin là mã số, tên, năm sinh.
@@ -34,6 +34,7 @@
 
 #include <iostream>
 #include <string.h>
+
 using namespace std;
 
 struct Staff{
@@ -45,8 +46,8 @@ struct Staff{
 int main() {
     int n;
     Staff staffs[1000];
-
     cin >> n;
+
     for (int i = 0; i < n; i++) {
         cin >> staffs[i].id >> staffs[i].name >> staffs[i].birthYear;
     }
@@ -58,4 +59,5 @@ int main() {
     }
 
     cout << oldestStaff.id << " " << oldestStaff.name << " " << oldestStaff.birthYear;
+    return 0;
 }

@@ -2,9 +2,9 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic:
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+// Topic: Data Abstraction
 
 /**
  * Cho hai phân số, hãy viết chương trình tính tổng và rút gọn hai phân số đó.
@@ -29,6 +29,7 @@
 
 #include <iostream>  
 #include <math.h>  
+
 using namespace std;  
   
 struct PhanSo {  
@@ -42,17 +43,18 @@ PhanSo sumFraction(PhanSo a, PhanSo b) {
     return res;  
 }  
   
-int GCD(int a, int b) {  
+int gcd(int a, int b) {  
     if (b == 0) return a;  
-    return GCD(b, a % b);   
+    return gcd(b, a % b);   
 }  
   
 PhanSo reduce(PhanSo f){    
         if(f.nu == 0){    
             f.de = 1;    
             return f;     
-        }    
-        int x = GCD(abs(f.nu), abs(f.de));    
+        }
+
+        int x = gcd(abs(f.nu), abs(f.de));    
         f.nu = f.nu / x;    
         f.de = f.de / x;  
         return f;  

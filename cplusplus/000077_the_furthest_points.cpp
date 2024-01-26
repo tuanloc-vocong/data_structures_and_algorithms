@@ -2,9 +2,9 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic:
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+// Topic: Data Abstraction
 
 /**
  * Cho bạn một điểm M(x,y) và N điểm khác trong mặt phảng Oxy, hãy tìm những điểm xa nhất so với điểm M. Biết công thức
@@ -35,7 +35,9 @@
 
 #include <iostream>
 #include <math.h>
+
 using namespace std;
+
 struct Point{
     int x, y;
 };
@@ -49,6 +51,7 @@ int main(){
     Point M, a[1000];
     cin >> M.x >> M.y;
     cin >> n;
+
     for (int i = 0; i < n; i++) {
         cin >> a[i].x >> a[i].y;
     }
@@ -63,6 +66,7 @@ int main(){
             ans = a[i];
         }
     }
+    
     cout << ans.x << " " << ans.y;
 	return 0;
 }

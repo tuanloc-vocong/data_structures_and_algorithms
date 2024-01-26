@@ -2,9 +2,9 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic:
+// Time Complexity: O(nlog(n))
+// Space Complexity: O(1)
+// Topic: Sorting
 
 /**
  * Cho N sinh viên khác nhau, mỗi sinh viên sẽ gồm mã số sinh viên và điểm của mình. Hãy tìm k sinh viên có điểm
@@ -37,6 +37,7 @@
 
 #include <iostream>
 #include <string.h>
+
 using namespace std;
 
 struct Student
@@ -58,8 +59,7 @@ void merge(int n1, Student L[], int n2, Student R[], Student a[])
 		if (compare(L[i], R[j])) {
 			a[k] = L[i];
 			i++;
-		}
-		else {
+		} else {
 			a[k] = R[j];
 			j++;
 		}
@@ -110,6 +110,9 @@ int main() {
 
 	mergeSort(n, a);
 
-	for (int i = 0; i < k; i++)
+	for (int i = 0; i < k; i++){
 		cout << a[i].id << endl;
+	}
+
+	return 0;
 }

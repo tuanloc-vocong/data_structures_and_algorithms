@@ -33,6 +33,7 @@ int cntDigits(int n){
       return 1;
    return 1 + cntDigits(n / 10);
 }
+
 int main() {
    int n;
    cin >> n;

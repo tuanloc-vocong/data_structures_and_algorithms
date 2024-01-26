@@ -3,8 +3,8 @@
 // Tags:
 // Author: tuanloc-vocong
 // Time Complexity: O(n^2)
-// Space Complexity:
-// Topic:
+// Space Complexity: O(1)
+// Topic: Sorting
 
 /**
  * Cho số nguyên dương N và mảng một chiều gồm N số nguyên a​i. Hãy tìm giá trị trung vị của mảng đó.
@@ -37,9 +37,10 @@
  **/
 
 #include <iostream>
+
 using namespace std;
 
-void insectionSort(int a[], int n) {
+void insertionSort(int a[], int n) {
     for (int i = 0; i < n; i++) {
         int cur = a[i];
         int pos = i;
@@ -55,14 +56,15 @@ int main() {
     int n;
     int a[1000];
     cin >> n;
+
     for (int i = 0; i < n; i++) {
         cin >> a[i];
     }
-    insectionSort(a, n);
+
+    insertionSort(a, n);
     if (n % 2 != 0) {
         cout << a[n / 2];
-    }
-    else {
+    } else {
         cout << (a[n / 2] + a[n / 2 - 1]) / 2.0;
     }
     return 0;

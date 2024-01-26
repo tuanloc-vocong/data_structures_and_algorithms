@@ -2,9 +2,9 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic:
+// Time Complexity: O(n*q)
+// Space Complexity: O(1)
+// Topic: Data Abstraction
 
 /**
  * Nhà trường muốn tạo một công cụ lưu trữ và tìm kiếm mã số và điểm của từng học sinh trong trường.
@@ -45,6 +45,7 @@
 
 #include <iostream>
 #include <string.h>
+
 using namespace std;
 
 struct Student{
@@ -56,12 +57,12 @@ struct Student{
 int main() {
     Student students[1000];
     int n, q;
-
     cin >> n >> q;
 
     for (int i = 0; i < n; i++) {
         cin >> students[i].id >> students[i].math >> students[i].literature;
     }
+
     char id[7];
     for (int i = 0; i < q; i++) {
         cin >> id;
@@ -73,4 +74,5 @@ int main() {
         }
     }
 
+    return 0;
 }
