@@ -101,6 +101,12 @@ Note: Space complexity is extra space
 | 000088 | Median                                  | [C++](./000088_median.cpp)                                  | _O(n^2)_                         | _O(1)_   | Easy       |     | Sorting                |
 | 000089 | Odd Even Sort                           | [C++](./000089_odd_even_sort.cpp)                           | _O(n^2)_                         | _O(1)_   | Easy       |     | Sorting                |
 | 000090 | Student Sort                            | [C++](./000090_student_sort.cpp)                            | _O(nlog(n))_                     | _O(1)_   | Easy       |     | Sorting                |
+| 000091 | The Minimum Element                     | [C++](./000091_the_minimum_element.cpp)                     | _O(n)_                           | _O(n)_   | Easy       |     | Singly Linked List     |
+| 000092 | Under Average Grades                    | [C++](./000092_under_average_grades.cpp)                    | _O(n)_                           | _O(n)_   | Easy       |     | Singly Linked List     |
+| 000093 | Prime Numbers In Linked List            | [C++](./000093_prime_numbers_in_linked_list.cpp)            | _O(n√​x)_                        | _O(n)_   | Easy       |     | Singly Linked List     |
+| 000094 | Insert The Index                        | [C++](./000094_insert_the_index.cpp)                        | _O(n)_                           | _O(n)_   | Easy       |     | Singly Linked List     |
+| 000095 | Ending With 5                           | [C++](./000095_ending_with_5.cpp)                           | _O(n)_                           | _O(n)_   | Easy       |     | Singly Linked List     |
+| 000096 | Queries                                 | [C++](./000096_queries.cpp)                                 | _O(n)_                           | _O(n)_   | Easy       |     | Singly Linked List     |
 
 <br/>
    <div align="right">
