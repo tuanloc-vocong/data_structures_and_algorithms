@@ -122,6 +122,15 @@ Note: Space complexity is extra space
 | 000109 | Sum Of Leaf Nodes On The Tree                     | [C++](./000109_sum_of_leaf_nodes_on_the_tree.cpp)                     | _O(n)_                           | _O(n)_   | Easy       |     | Trees                  |
 | 000110 | Count The Number Of Nodes With Exactly 2 Children | [C++](./000110_count_the_number_of_nodes_with_exactly_2_children.cpp) | _O(n)_                           | _O(n)_   | Easy       |     | Trees                  |
 | 000111 | List Even Number                                  | [C++](./000111_list_even_number.cpp)                                  | _O(n)_                           | _O(n)_   | Easy       |     | Trees                  |
+| 000112 | Find Student With The Highest Score               | [C++](./000112_find_student_with_the_highest_score.cpp)               | _O(n)_                           | _O(n)_   | Easy       |     | Trees                  |
+| 000113 | Sum Value                                         | [C++](./000113_sum_value.cpp)                                         | _O(n)_                           | _O(n)_   | Easy       |     | Trees                  |
+| 000114 | Create Edge List                                  | [C++](./000114_create_edge_list.cpp)                                  | _O(n^2)_                         | _O(1)_   | Easy       |     | Graphs                 |
+| 000115 | Check Undirected Graph                            | [C++](./000115_check_undirected_graph.cpp)                            | _O(n^2)_                         | _O(1)_   | Easy       |     | Graphs                 |
+| 000116 | Find The Degree Of Vertices                       | [C++](./000116_find_the_degree_of_vertices.cpp)                       | _O(n^2)_                         | _O(1)_   | Easy       |     | Graphs                 |
+| 000117 | The Sum Of The Smallest Edge Weights              | [C++](./000117_the_sum_of_the_smallest_edge_weights.cpp)              | _O(n)_                           | _O(1)_   | Easy       |     | Graphs                 |
+| 000118 | Product Of The Self Loop Edges                    | [C++](./000118_product_of_the_self_loop_edges.cpp)                    | _O(n)_                           | _O(1)_   | Easy       |     | Graphs                 |
+| 000119 | Create An Adjacency List                          | [C++](./000119_create_an_adjacency_list.cpp)                          | _O(n^2)_                         | _O(1)_   | Easy       |     | Graphs                 |
+| 000120 | List Adjacency Edge                               | [C++](./000120_list_adjacency_edge.cpp)                               | _O(n)_                           | _O(1)_   | Easy       |     | Graphs                 |
 
 <br/>
    <div align="right">

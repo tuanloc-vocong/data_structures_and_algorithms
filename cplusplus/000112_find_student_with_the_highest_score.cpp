@@ -2,8 +2,8 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 // Topic: Trees
 
 /**
@@ -79,8 +79,29 @@ void insert(Node *&root, Student student)
     }
 }
 
+Student maxMark(Node *root)
+{
+    if (root->right == NULL)
+    {
+        return root->student;
+    }
+    return maxMark(root->right);
+}
+
 int main()
 {
-    cout << "Hello, World!!!";
+    Node *root = NULL;
+    int n;
+    cin >> n;
+
+    for (int i = 0; i < n; i++)
+    {
+        Student student;
+        cin >> student.id >> student.name >> student.mark;
+        insert(root, student);
+    }
+
+    Student res = maxMark(root);
+    cout << res.id << ' ' << res.name << ' ' << res.mark;
     return 0;
 }
