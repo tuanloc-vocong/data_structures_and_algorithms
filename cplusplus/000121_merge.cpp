@@ -2,8 +2,8 @@
 // Difficulty: Easy
 // Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
+// Time Complexity: O(m+n)
+// Space Complexity: O(1)
 // Topic: Sorting
 
 /**
