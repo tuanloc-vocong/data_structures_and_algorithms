@@ -8,8 +8,8 @@ Note: Space complexity is extra space
 
 ---
 
-| #      | Title                                             | Solution                                                              | Time                             | Space         | Difficulty | Tag | Topic                  |
-| ------ | ------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------- | ------------- | ---------- | --- | ---------------------- |
+| #      | Title                                             | Solution                                                                        | Time                             | Space         | Difficulty | Tag | Topic                  |
+| ------ | ------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------- | ------------- | ---------- | --- | ---------------------- |
 | 000000 | Hello World                                       | [C++](./cplusplus/000000_hello_world.cpp)                                       | _O(1)_                           | _O(1)_        | Easy       |     | Introduction           |
 | 000001 | Sum                                               | [C++](./cplusplus/000001_sum.cpp)                                               | _O(1)_                           | _O(1)_        | Easy       |     | Introduction           |
 | 000002 | Age                                               | [C++](./cplusplus/000002_age.cpp)                                               | _O(1)_                           | _O(1)_        | Easy       |     | Introduction           |
@@ -137,9 +137,28 @@ Note: Space complexity is extra space
 | 000124 | Expression                                        | [C++](./cplusplus/000124_expression.cpp)                                        | _O(n)_                           | _O(1)_        | Easy       |     |                        |
 | 000125 | Crossroads                                        | [C++](./cplusplus/000125_crossroads.cpp)                                        | _O(n^2)_                         | _O(1)_        | Easy       |     | Matrix                 |
 | 000126 | Cipher                                            | [C++](./cplusplus/000126_cipher.cpp)                                            | _O(n)_                           | _O(1)_        | Easy       |     | String                 |
+| 000127 | Fashion In Berland                                | [C++](./cplusplus/000127_fashion_in_berland.cpp)                                | _O(n)_                           | _O(1)_        | Easy       |     | Dynamic Array & String |
+| 000128 | Night At The Museum                               | [C++](./cplusplus/000128_night_at_the_museum.cpp)                               | _O(n)_                           | _O(1)_        | Easy       |     | Dynamic Array & String |
+| 000129 | Bear And Game                                     | [C++](./cplusplus/000129_bear_and_game.cpp)                                     | _O(n)_                           | _O(1)_        | Easy       |     | Dynamic Array & String |
+| 000130 | Vitaly And Strings                                | [C++](./cplusplus/000130_vitaly_and_strings.cpp)                                | _O(n)_                           | _O(1)_        | Easy       |     | Dynamic Array & String |
+| 000131 | Arrays                                            | [C++](./cplusplus/000131_arrays.cpp)                                            | _O(1)_                           | _O(1)_        | Easy       |     | Dynamic Array & String |
+| 000132 | Big Segment                                       | [C++](./cplusplus/000132_big_segment.cpp)                                       | _O(n)_                           | _O(1)_        | Easy       |     | Dynamic Array & String |
+| 000133 | Passwords                                         | [C++](./cplusplus/000133_passwords.cpp)                                         | _O(n+length(s))_                 | _O(1)_        | Easy       |     | Dynamic Array & String |
+| 000134 | Suffix Structures                                 | [C++](./cplusplus/000134_suffix_structures.cpp)                                 | _O(max(length(s),length(t)))_    | _O(1)_        | Easy       |     | Dynamic Array & String |
+| 000135 | Array                                             | [C++](./cplusplus/000135_array.cpp)                                             | _O(n)_                           | _O(1)_        | Easy       |     | Algorithmic Complexity |
+| 000136 | George And Round                                  | [C++](./cplusplus/000136_george_and_round.cpp)                                  | _O(max(n,m))_                    | _O(1)_        | Easy       |     | Algorithmic Complexity |
+| 000137 | Books                                             | [C++](./cplusplus/000137_books.cpp)                                             | _O(n)_                           | _O(1)_        | Easy       |     | Algorithmic Complexity |
+| 000138 | Dress'em In Vests!                                | [C++](./cplusplus/000138_dressem_in_vests.cpp)                                  | _O(max(n,m))_                    | _O(1)_        | Easy       |     | Algorithmic Complexity |
+| 000139 | Sereja And Dima                                   | [C++](./cplusplus/000139_sereja_and_dima.cpp)                                   | _O(n)_                           | _O(1)_        | Easy       |     | Algorithmic Complexity |
+| 000140 | Approximating A Constant Range                    | [C++](./cplusplus/000140_approximating_a_constant_range.cpp)                    | _O(n)_                           | _O(1)_        | Easy       |     | Algorithmic Complexity |
+| 000141 | Wrath                                             | [C++](./cplusplus/000141_wrath.cpp)                                             | _O(n)_                           | _O(1)_        | Easy       |     | Algorithmic Complexity |
+| 000142 | Alice Bob And Chocolate                           | [C++](./cplusplus/000142_alice_bob_and_chocolate.cpp)                           | _O(n)_                           | _O(1)_        | Easy       |     | Algorithmic Complexity |
+| 000143 | Devu, The Dumb Guy                                | [C++](./cplusplus/000143_devu_the_dumb_guy.cpp)                                 | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
+| 000144 | Chores                                            | [C++](./cplusplus/000144_chores.cpp)                                            | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
+| 000145 | Sort The Array                                    | [C++](./cplusplus/000145_sort_the_array.cpp)                                    | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
 
 <br/>
    <div align="right">
-       <b><a href="#data_structures_and_algorithms">▲ Back to Top</a></b>
+       <b><a href="#data-structures-and-algorithms">▲ Back to Top</a></b>
    </div>
 <br/>
