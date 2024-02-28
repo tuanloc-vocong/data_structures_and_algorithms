@@ -156,6 +156,10 @@ Note: Space complexity is extra space
 | 000143 | Devu, The Dumb Guy                                | [C++](./cplusplus/000143_devu_the_dumb_guy.cpp)                                 | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
 | 000144 | Chores                                            | [C++](./cplusplus/000144_chores.cpp)                                            | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
 | 000145 | Sort The Array                                    | [C++](./cplusplus/000145_sort_the_array.cpp)                                    | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
+| 000146 | GukiZ And Contest                                 | [C++](./cplusplus/000146_gukiz_and_contest.cpp)                                 | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
+| 000147 | Pasha And Tea                                     | [C++](./cplusplus/000147_pasha_and_tea.cpp)                                     | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
+| 000148 | Towers                                            | [C++](./cplusplus/000148_towers.cpp)                                            | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
+| 000149 | Business Trip                                     | [C++](./cplusplus/000149_business_trip.cpp)                                     | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
 
 <br/>
    <div align="right">
