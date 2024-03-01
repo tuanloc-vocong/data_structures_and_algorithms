@@ -160,6 +160,13 @@ Note: Space complexity is extra space
 | 000147 | Pasha And Tea                                     | [C++](./cplusplus/000147_pasha_and_tea.cpp)                                     | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
 | 000148 | Towers                                            | [C++](./cplusplus/000148_towers.cpp)                                            | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
 | 000149 | Business Trip                                     | [C++](./cplusplus/000149_business_trip.cpp)                                     | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
+| 000150 | Eight Point Sets                                  | [C++](./cplusplus/000150_eight_point_sets.cpp)                                  | _O(nlog(n))_                     | _O(1)_        | Easy       |     | Sorting                |
+| 000151 | Transform The Expression                          | [C++](./cplusplus/000151_transform_the_expression.cpp)                          | _O(t×len(expression))_           | _O(t)_        | Easy       |     | Stack & Queue          |
+| 000152 | Street Parade                                     | [C++](./cplusplus/000152_street_parade.cpp)                                     | _O(t×n)_                         | _O(1)_        | Easy       |     | Stack & Queue          |
+| 000153 | Throwing Cards Away I                             | [C++](./cplusplus/000153_throwing_cards_away_i.cpp)                             | _O(t×n)_                         | _O(1)_        | Easy       |     | Stack & Queue          |
+| 000154 | That Is Your Queue                                | [C++](./cplusplus/000154_that_is_your_queue.cpp)                                | _O(T×C×(min(P,C)+C))_            | _O(1)_        | Easy       |     | Stack & Queue          |
+| 000155 | Mass Of Molecule                                  | [C++](./cplusplus/000155_mass_of_molecule.cpp)                                  | _O(n)_                           | _O(1)_        | Easy       |     | Stack & Queue          |
+| 000156 | Ferry Loading III                                 | [C++](./cplusplus/000156_ferry_loading_iii.cpp)                                 | _O(t×m)_                         | _O(1)_        | Easy       |     | Stack & Queue          |
 
 <br/>
    <div align="right">
