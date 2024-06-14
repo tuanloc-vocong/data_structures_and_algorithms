@@ -1,4 +1,4 @@
-// Title: Sàng Số Nguyên Tố
+// Title: Kiểm Tra Số Nguyên Tố 2
 // Source: 28tech
 // Difficulty: Easy
 // Author: tuanloc-vocong
@@ -8,27 +8,29 @@
 
 /**
  * Input:
- * Số nguyên tố n (0≤n≤10^6).
+ * Dòng đầu tiên là số lượng test case T. (1≤T≤1000).
+ * Mỗi test case là một số nguyên n (0≤n≤10^6)
  *
  * Output:
- * In ra trên một dòng các số nguyên tố không vượt quá n, mỗi số cách nhau một khoảng trắng.
+ * In ra kết quả mỗi test case trên một dòng. In YES nếu n là số nguyên tố, ngược lại in NO.
  *
  * Example 1:
  * Input:
  * 4
+ * 2
+ * 3
+ * 20
+ * 188
  *
  * Output:
- * 2 3
- *
- * Example 2:
- * Input:
- * 13
- *
- * Output:
- * 2 3 5 7 11 13
+ * YES
+ * YES
+ * NO
+ * NO
  **/
 
 #include <stdio.h>
+#include <math.h>
 
 using namespace std;
 
@@ -55,13 +57,16 @@ void sieve()
 int main()
 {
     sieve();
-    int n;
-    scanf("%d", &n);
-    for (int i = 0; i <= n; i++)
+    int t;
+    scanf("%d ", &t);
+
+    while (t--)
     {
-        if (prime[i])
-        {
-            printf("%d ", i);
-        }
+        int n;
+        scanf("%d ", &n);
+        if (prime[n])
+            printf("YES\n");
+        else
+            printf("NO\n");
     }
 }

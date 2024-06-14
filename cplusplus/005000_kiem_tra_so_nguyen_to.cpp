@@ -1,9 +1,8 @@
 // Title: Kiểm Tra Số Nguyên Tố
 // Source: 28tech
 // Difficulty: Easy
-// Tags:
 // Author: tuanloc-vocong
-// Time Complexity: O(logn)
+// Time Complexity: O(√n)
 // Space Complexity:
 // Topic: Number Theory
 
