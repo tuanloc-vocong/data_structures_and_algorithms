@@ -1,10 +1,8 @@
-// Title: Exam Results
-// Source: Big-O Coding
-// Difficulty: Easy
-// Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic: Introduction
+// Title: Exam results
+// Source: Big-O
+// Difficulty:
+// Time Complexity:
+// Topic:
 
 /**
  * Viết chương trình nhập vào điểm 3 môn Toán, Khoa học tự nhiên, Anh Văn. Tính tổng điểm thi 3 môn của thí sinh đó.
@@ -29,15 +27,11 @@
  **/
 
 #include <iostream>
-#include <iomanip>
 
 using namespace std;
 
 int main()
 {
-    double math, science, english;
-    cin >> math >> science >> english;
-    double total = math + science + english;
-    cout << fixed << setprecision(2) << total;
+    cout << "Hello, World!!!";
     return 0;
 }

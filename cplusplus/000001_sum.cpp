@@ -1,18 +1,16 @@
 // Title: Sum
-// Source: Big-O Coding
-// Difficulty: Easy
-// Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic: Introduction
+// Source: Big-O
+// Difficulty:
+// Time Complexity:
+// Topic:
 
 /**
- * Viết chương trình cho phép người dùng nhập vào 2 số nguyên lần lượt là số kẹo của Upan và Ipan. Bạn hãy tính tổng số
- * kẹo của 2 bạn ấy và in kết quả ra màn hình.
+ * Viết chương trình cho phép người dùng nhập vào 2 số nguyên lần lượt là số kẹo của Upan và Ipan. Bạn hãy tính tổng số kẹo
+ * của 2 bạn ấy và in kết quả ra màn hình.
  *
  * Input:
- * Gồm một dòng duy nhất chứa hai số nguyên a và b cách nhau bởi một khoảng trắng (a, b thuộc kiểu số nguyên 32 bits),
- * với a, b lần lượt là số kẹo của Upan, Ipan. Dữ liệu đảm bảo kết quả tổng a và b cũng thuộc kiểu số nguyên 32 bits.
+ * Gồm một dòng duy nhất chứa hai số nguyên aa và bb cách nhau bởi một khoảng trắng (a, b thuộc kiểu số nguyên 32 bits), với
+ * a, b lần lượt là số kẹo của Upan, Ipan. Dữ liệu đảm bảo kết quả tổng a và b cũng thuộc kiểu số nguyên 32 bits.
  *
  * Output:
  * In kết quả theo định dạng “a + b = c” với c là tổng số kẹo của cả 2 bạn Upan và Ipan.
@@ -31,8 +29,6 @@ using namespace std;
 
 int main()
 {
-    int a, b;
-    cin >> a >> b;
-    cout << a << " + " << b << " = " << a + b;
+    cout << "Hello, World!!!";
     return 0;
 }

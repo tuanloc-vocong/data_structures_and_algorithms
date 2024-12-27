@@ -1,10 +1,8 @@
 // Title: Age
-// Source: Big-O Coding
-// Difficulty: Easy
-// Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity:
-// Topic: Introduction
+// Source: Big-O
+// Difficulty:
+// Time Complexity:
+// Topic:
 
 /**
  * Nhập vào năm sinh của một người. Tính tuổi của người đó tính đến năm 2019.
@@ -29,8 +27,6 @@ using namespace std;
 
 int main()
 {
-    int birthYear;
-    cin >> birthYear;
-    cout << 2019 - birthYear;
+    cout << "Hello, World!!!";
     return 0;
 }

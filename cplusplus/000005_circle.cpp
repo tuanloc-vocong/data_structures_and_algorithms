@@ -1,10 +1,8 @@
 // Title: Circle
-// Source: Big-O Coding
-// Difficulty: Easy
-// Author: tuanloc-vocong
-// Time Complexity: O(1)
-// Space Complexity: O(1)
-// Topic: Introduction
+// Source: Big-O
+// Difficulty:
+// Time Complexity:
+// Topic:
 
 /**
  * Nhập vào bán kính của một hình tròn. Tính chu vi và diện tích hình tròn.
@@ -12,6 +10,7 @@
  * Biết rằng:
  * Chu vi hình tròn = 2 * bán kính * PI
  * Diện tích hình tròn = bán kính * bán kính * PI
+ *
  * Quy ước: PI = 3.14
  *
  * Input:
@@ -34,18 +33,11 @@
  **/
 
 #include <iostream>
-#include <iomanip>
 
 using namespace std;
 
 int main()
 {
-    double r;
-    cin >> r;
-    const double PI = 3.14;
-    double perimeter = 2 * r * PI;
-    double area = r * r * PI;
-    cout << fixed << setprecision(2) << perimeter << endl;
-    cout << fixed << setprecision(2) << area << endl;
+    cout << "Hello, World!!!";
     return 0;
 }
