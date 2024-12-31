@@ -33,7 +33,18 @@ Note: Space complexity is extra space
 | 000020 | Prime number                  | [C++](./cplusplus/000020_ascending_sequence.cpp)            |      |            |       |
 | 000021 | Splitting candies             | [C++](./cplusplus/000021_splitting_candies.cpp)             |      |            |       |
 | 000022 | The fence                     | [C++](./cplusplus/000022_the_fence.cpp)                     |      |            |       |
-| 000023 | Calculate sum                 | [C++](./cplusplus/000023_calculate_sum.cpp)                 |      |            |       |
+| 000023 | Sum of primes                 | [C++](./cplusplus/000023_sum_of_primes.cpp)                 |      |            |       |
+| 000024 | Calculate sum                 | [C++](./cplusplus/000024_calculate_sum.cpp)                 |      |            |       |
+| 000025 | Reduce fraction               | [C++](./cplusplus/000025_reduce_fraction.cpp)               |      |            |       |
+| 000026 | Number of digits              | [C++](./cplusplus/000026_number_of_digits.cpp)              |      |            |       |
+| 000027 | Largest Digit                 | [C++](./cplusplus/000027_largest_digit.cpp)                 |      |            |       |
+| 000028 | Prime closest to N            | [C++](./cplusplus/000028_prime_closest_to_n.cpp)            |      |            |       |
+| 000029 | Palindrome number             | [C++](./cplusplus/000029_palindrome_number.cpp)             |      |            |       |
+| 000030 | Calculate sum                 | [C++](./cplusplus/000030_calculate_sum.cpp)                 |      |            |       |
+| 000031 | Most liked post               | [C++](./cplusplus/000031_most_liked_post.cpp)               |      |            |       |
+| 000032 | List divisible by 2           | [C++](./cplusplus/000032_list_divisible_by_2.cpp)           |      |            |       |
+| 000033 | Number of likes of the post   | [C++](./cplusplus/000033_number_of_likes_of_the_post.cpp)   |      |            |       |
+| 000034 | Count primes                  | [C++](./cplusplus/000034_count_primes.cpp)                  |      |            |       |
 
 <br/>
    <div align="right">
