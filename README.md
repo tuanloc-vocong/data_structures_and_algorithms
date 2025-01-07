@@ -65,8 +65,45 @@ Note: Space complexity is extra space
 | 000052 | Standardize the string                  | [C++](./cplusplus/000052_standardize_the_string.cpp)                  |      |            |       |
 | 000053 | Standardize the name                    | [C++](./cplusplus/000053_standardize_the_name.cpp)                    |      |            |       |
 | 000054 | The least existing character            | [C++](./cplusplus/000054_the_least_existing_character.cpp)            |      |            |       |
-| 000055 | Capital letters after the dot           | [C++](./cplusplus/000055_capital_letters_after_the_dot.cpp)           |      |            |       |
-| 000056 | Reversing                               | [C++](./cplusplus/000056_reversing.cpp)                               |      |            |       |
+| 000055 | Unique characters                       | [C++](./cplusplus/000055_unique_characters.cpp)                       |      |            |       |
+| 000056 | Capital letters after the dot           | [C++](./cplusplus/000056_capital_letters_after_the_dot.cpp)           |      |            |       |
+| 000057 | Reversing                               | [C++](./cplusplus/000057_reversing.cpp)                               |      |            |       |
+| 000058 | Taxi fare                               | [C++](./cplusplus/000058_taxi_fare.cpp)                               |      |            |       |
+| 000059 | Christmas tree                          | [C++](./cplusplus/000059_christmas_tree.cpp)                          |      |            |       |
+| 000060 | Valid email                             | [C++](./cplusplus/000060_valid_email.cpp)                             |      |            |       |
+| 000061 | Sudoku                                  | [C++](./cplusplus/000061_sudoku.cpp)                                  |      |            |       |
+| 000062 | Magnet                                  | [C++](./cplusplus/000062_magnet.cpp)                                  |      |            |       |
+| 000063 | Acronym                                 | [C++](./cplusplus/000063_acronym.cpp)                                 |      |            |       |
+| 000064 | Factorial                               | [C++](./cplusplus/000064_factorial.cpp)                               |      |            |       |
+| 000065 | Biggest Odd Divisor                     | [C++](./cplusplus/000065_biggest_odd_divisor.cpp)                     |      |            |       |
+| 000066 | The number of digits                    | [C++](./cplusplus/000066_the_number_of_digits.cpp)                    |      |            |       |
+| 000067 | The first digit                         | [C++](./cplusplus/000067_the_first_digit.cpp)                         |      |            |       |
+| 000068 | The largest digit                       | [C++](./cplusplus/000068_the_largest_digit.cpp)                       |      |            |       |
+| 000069 | Sum of even                             | [C++](./cplusplus/000069_sum_of_even.cpp)                             |      |            |       |
+| 000070 | The first prime number                  | [C++](./cplusplus/000070_the_first_prime_number.cpp)                  |      |            |       |
+| 000071 | Fibonacci number                        | [C++](./cplusplus/000071_fibonacci_number.cpp)                        |      |            |       |
+| 000072 | Greatest common divisor                 | [C++](./cplusplus/000072_greatest_common_divisor.cpp)                 |      |            |       |
+| 000073 | Binary number                           | [C++](./cplusplus/000073_binary_number.cpp)                           |      |            |       |
+| 000074 | Hexadecimal number                      | [C++](./cplusplus/000074_hexadecimal_number.cpp)                      |      |            |       |
+| 000075 | Symmetrical string                      | [C++](./cplusplus/000075_symmetrical_string.cpp)                      |      |            |       |
+| 000076 | Sum of Fractions                        | [C++](./cplusplus/000076_sum_of_fractions.cpp)                        |      |            |       |
+| 000077 | The Furthest Points                     | [C++](./cplusplus/000077_the_furthest_points.cpp)                     |      |            |       |
+| 000078 | Excellent Student                       | [C++](./cplusplus/000078_excellent_student.cpp)                       |      |            |       |
+| 000079 | Area of the Triangles                   | [C++](./cplusplus/000079_area_of_the_triangles.cpp)                   |      |            |       |
+| 000080 | Searching Students                      | [C++](./cplusplus/000080_searching_students.cpp)                      |      |            |       |
+| 000081 | Colored Ribbon                          | [C++](./cplusplus/000081_colored_ribbon.cpp)                          |      |            |       |
+| 000082 | Oldest Employee                         | [C++](./cplusplus/000082_oldest_employee.cpp)                         |      |            |       |
+| 000083 | The Largest Fraction                    | [C++](./cplusplus/000083_the_largest_fraction.cpp)                    |      |            |       |
+| 000084 | Buying Apples                           | [C++](./cplusplus/000084_buying_apples.cpp)                           |      |            |       |
+| 000085 | Sort in Ascending Order                 | [C++](./cplusplus/000085_sort_in_ascending_order.cpp)                 |      |            |       |
+| 000086 | Sort in Descending Order                | [C++](./cplusplus/000086_sort_in_descending_order.cpp)                |      |            |       |
+| 000087 | Prime Sort                              | [C++](./cplusplus/000087_prime_sort.cpp)                              |      |            |       |
+| 000088 | Median                                  | [C++](./cplusplus/000088_median.cpp)                                  |      |            |       |
+| 000089 | Odd-Even Sort                           | [C++](./cplusplus/000089_odd_even_sort.cpp)                           |      |            |       |
+| 000090 | Student Sort                            | [C++](./cplusplus/000090_student_sort.cpp)                            |      |            |       |
+| 000091 | The Minimum Element                     | [C++](./cplusplus/000091_the_minimum_element.cpp)                     |      |            |       |
+| 000092 | Under-Average Grades                    | [C++](./cplusplus/000092_under_average_grades.cpp)                    |      |            |       |
+| 000093 | Prime Numbers in Linked List            | [C++](./cplusplus/000093_prime_numbers_in_linked_list.cpp)            |      |            |       |
 
 <br/>
    <div align="right">
